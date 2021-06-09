@@ -1,6 +1,6 @@
 {
   "name": "spfx-css-modules-typescript-loader",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "description": "Webpack loader to create TypeScript declarations for CSS Modules",
   "main": "index.js",
   "repository": {
